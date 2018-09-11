@@ -12,8 +12,7 @@ else {
 }
 
 function ternaryCheckCity(city){
-
-const isCity = city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
+return city
 
 }
 
