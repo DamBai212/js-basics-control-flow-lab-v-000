@@ -13,7 +13,7 @@ else {
 
 function ternaryCheckCity(state){
 const city = 'NYC'
-const isCity = city === state ? 'Ok, sounds good.' : 'No go.';
+const isCity = city === 'NYC'? 'Ok, sounds good.' : 'No go.';
 
 }
 
