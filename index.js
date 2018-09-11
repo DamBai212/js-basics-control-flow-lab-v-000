@@ -12,7 +12,9 @@ else {
 }
 
 function ternaryCheckCity(city){
-  city >= 'NYC' ? ("Ok, sounds good.") : ('No go.')
+const isCity = city >= 'NYC' ? ("Ok, sounds good.") : ('No go.')
+
+isCity;
 }
 
 function switchOnCharmFromTip(){
