@@ -8,7 +8,7 @@ else if (ride > 2000 && ride < 2500) {
 }
 else {
   return "No can do.";
-}
+   }
 }
 
 function ternaryCheckCity(){
