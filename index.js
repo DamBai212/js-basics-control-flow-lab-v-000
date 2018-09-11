@@ -11,9 +11,9 @@ else {
    }
 }
 
-function ternaryCheckCity(state){
-const city = 'NYC'
-const isCity = city === 'NYC'? 'Ok, sounds good.' : 'No go.';
+function ternaryCheckCity(city){
+let city = 'NYC'
+const isCity = city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
 
 }
 
